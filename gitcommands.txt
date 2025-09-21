@@ -1,0 +1,24 @@
+1  git help commit
+    2  git --version
+    3  clear
+    4  git --version
+    5  git --version
+    6  git --version
+    7  clea
+    8  clear
+    9  git --version
+   10  ls
+   11  ls -l
+   12  cd Desktop/
+   13  cd githubfordevops
+   14  ls
+   15  ls -a
+   16  ls
+   17  ls -a
+   18  clear
+   19  touch testing.py
+   20  rm testing.py
+   21  git status
+   22  clear
+   23  git restore testing.py
+   24  history
