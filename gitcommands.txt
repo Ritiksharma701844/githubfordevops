@@ -1,4 +1,4 @@
-1  git help commit
+  git help commit
     2  git --version
     3  clear
     4  git --version
@@ -21,4 +21,3 @@
    21  git status
    22  clear
    23  git restore testing.py
-   24  history
