@@ -1,4 +1,4 @@
-1  git help commit
+  git help commit
     2  git --version
     3  clear
     4  git --version
@@ -20,6 +20,7 @@
    20  rm testing.py
    21  git status
    22  clear
-   23  git restore testing.py
+
+
    24  history
-   25  git remote set-url origin =t ****ye url bnega push krne k liye
+   25  git remote set-url origin =t ****ye url bnega push krne k liy
