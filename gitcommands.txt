@@ -22,3 +22,4 @@
    22  clear
    23  git restore testing.py
    24  history
+   25  git remote set-url origin =t ****ye url bnega push krne k liye
